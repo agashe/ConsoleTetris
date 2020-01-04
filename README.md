@@ -19,4 +19,4 @@ Using arrows , Up for rotation and Down for acceleration.
 Ctrl + C to exit.
 
 ## Demo
-![ConsoleTetris Demo](https://imgur.com/a/PnxJLwd)
+![ConsoleTetris Demo](https://i.imgur.com/NaKramJ.jpg)
