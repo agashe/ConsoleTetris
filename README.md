@@ -2,9 +2,9 @@
 
 The famous tetris game written in C , console based.
 
-Version: 0.5
-Platform: Windows.
-License: Open Source
+Version: 0.5 <br>
+Platform: Windows. <br>
+License: Open Source <br>
 
 ## ToDo
 - Fix collision , there're some glitches.
