@@ -18,5 +18,5 @@ All what you need is a C compiler.
 Using arrows , Up for rotation and Down for acceleration.
 Ctrl + C to exit.
 
-## Demo
+## Screenshot
 ![ConsoleTetris Demo](https://i.imgur.com/NaKramJ.jpg)
